@@ -1,0 +1,14 @@
+Gemfile.lock
+/data/
+data
+yaph-0.91
+ip2lite/data/
+maxmind/data/
+kombinacia/data/
+data.csv
+data_simple.csv
+database
+*output.csv
+*.csv
+*.txt
+ip2lite/rb
