@@ -1,0 +1,100 @@
+Ip2Lite vs Maxmind
+Empty: 6065
+Ident: 613637
+Diff: 2707
+SUMall: 622409
+SUMnoEmpty: 616344
+Good: 99.56079721713849 %
+Wrong: 0.43920278286151887 %
+---------------------------
+Ip2Lite vs Zaklad1
+Empty: 6065
+Ident: 610033
+Diff: 6311
+SUMall: 622409
+SUMnoEmpty: 616344
+Godd: 98.97605882429292
+Wrong: 1.0239411757070727
+---------------------------
+Maxmind vs Zaklad1
+Empty: 6065
+Ident: 610896
+Diff: 5448
+SUMall: 622409
+SUMnoEmpty: 616344
+Godd: 99.11607803434445
+Wrong: 0.883921965655543
+---------------------------
+Maxmind vs Ip2Lite cityname-compare
+Empty: 6065
+Ident: 73146
+Diff: 543198
+SUMall: 622409
+SUMnoEmpty: 616344
+Godd: 11.867723219500798
+Wrong: 88.1322767804992
+Maxmind find city only in 312080 a do not in 304264 cases
+-----------------------------
+Maxmind vs Ip2lite city-compare, porovnanie len na najdene hodnoty
+Empty: 6065
+Ident: 73146
+Diff: 238934
+SUMall: 318145
+SUMnoEmpty: 312080
+nill u maxmind: 304264
+Good: 23.43822096898231
+Wrong: 76.56177903101769
+------------------------------
+Maxmind vs ip2Lite Longitude and Latitude
+Empty: 6065
+Ident: 12
+Diff: 616332
+SUMall: 622409
+SUMnoEmpty: 616344
+Good: 0.0019469646820606675
+Wrong: 99.99805303531794
+----------------------------
+latitude
+Empty: 6065
+Ident: 1460
+Diff: 614884
+SUMall: 622409
+SUMnoEmpty: 616344
+Good: 0.23688070298404787
+Wrong: 99.76311929701595
+-------------------------------
+longitude
+Empty: 6065
+Ident: 778
+Diff: 615566
+SUMall: 622409
+SUMnoEmpty: 616344
+Good: 0.12622821022026662
+Wrong: 99.87377178977974
+-------------------------------------------
+Maxmind vs ip2lite longitude and latitude after round(2)
+Empty: 6065
+Ident: 339188
+Diff: 277156
+SUMall: 622409
+SUMnoEmpty: 616344
+Good: 55.03225471489947
+Wrong: 44.96774528510053
+---------------------------
+Maxmind vs Ip2lite Longitude after Round(2)
+Empty: 6065
+Ident: 389070
+Diff: 227274
+SUMall: 622409
+SUMnoEmpty: 616344
+Good: 63.12546240411199
+Wrong: 36.87453759588801
+---------------------------
+Maxmind vs Ip2lite Latitude after Round(2)
+Empty: 6065
+Ident: 403755
+Diff: 212589
+SUMall: 622409
+SUMnoEmpty: 616344
+Good: 65.50806043378373
+Wrong: 34.49193956621627
