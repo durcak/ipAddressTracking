@@ -12,3 +12,4 @@ database
 *.csv
 *.txt
 ip2lite/rb
+dbip/
